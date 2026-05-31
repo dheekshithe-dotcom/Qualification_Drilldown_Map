@@ -4,7 +4,6 @@
 This project is an interactive Tableau map visualization that displays job postings across African countries based on specific qualification, salary, company size, and recruitment criteria. The dashboard uses latitude and longitude coordinates to map job locations and allows users to explore hiring opportunities geographically.
 
 
-
 Objective
 
 To create a map-based visualization showing job postings that meet specific hiring conditions and provide location-level insights using drilldown functionality.
@@ -55,8 +54,7 @@ The visualization enables users to explore exact job locations by interacting wi
 * Filters and Aggregations
 
 
-
- Key Insights
+Key Insights
 
 * Large organizations with more than 80,000 employees dominate hiring activity.
 * Data-related and technology-focused job roles are widely distributed across African countries.
@@ -64,19 +62,16 @@ The visualization enables users to explore exact job locations by interacting wi
 * Geographic visualization makes it easier to compare hiring activity across multiple regions.
 
 
-
-## Dataset Source
+Dataset Source
 
 The dataset used in this project is a self-created CSV dataset prepared for educational and analytical purposes.
 
 
-
- Project Purpose
+Project Purpose
 
 The purpose of this project is to demonstrate geographic data visualization, filtering techniques, drilldown functionality, and map-based analysis using Tableau.
 
 
-
-## Author
+Author
 
 Dheekshith Eggidi
