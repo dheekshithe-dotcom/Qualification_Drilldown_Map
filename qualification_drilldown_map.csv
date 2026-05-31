@@ -1,0 +1,31 @@
+﻿Country,Location,Latitude,Longitude,Qualification,Work Type,Job Title,Preference,Company Size,Salary,Contact Person,Job Portal
+South Africa,Cape Town,-33.9249,18.4241,B.Tech,Full-Time,Data Analyst,Male,90000,25000,Arjun,Indeed
+South Africa,Johannesburg,-26.2041,28.0473,M.Tech,Full-Time,Data Engineer,Male,95000,28000,Aman,Indeed
+Nigeria,Lagos,6.5244,3.3792,PhD,Full-Time,Data Scientist,Male,120000,32000,Anil,Indeed
+Nigeria,Abuja,9.0765,7.3986,B.Tech,Full-Time,DevOps Engineer,Male,88000,24000,Ajay,Indeed
+Kenya,Nairobi,-1.2921,36.8219,M.Tech,Full-Time,Database Administrator,Male,93000,26000,Arvind,Indeed
+Kenya,Mombasa,-4.0435,39.6682,PhD,Full-Time,Data Architect,Male,98000,29000,Akash,Indeed
+Egypt,Cairo,30.0444,31.2357,B.Tech,Full-Time,Data Analyst,Male,110000,31000,Aditya,Indeed
+Egypt,Alexandria,31.2001,29.9187,M.Tech,Full-Time,Data Engineer,Male,87000,23000,Abhishek,Indeed
+Ghana,Accra,5.6037,-0.187,PhD,Full-Time,Data Scientist,Male,102000,27000,Anand,Indeed
+Ghana,Kumasi,6.6885,-1.6244,B.Tech,Full-Time,DevOps Engineer,Male,85000,22000,Amit,Indeed
+Ethiopia,Addis Ababa,8.9806,38.7578,M.Tech,Full-Time,Data Architect,Male,118000,34000,Arun,Indeed
+Ethiopia,Mekele,13.4967,39.4753,PhD,Full-Time,Data Analyst,Male,90000,25000,Ayaan,Indeed
+Morocco,Casablanca,33.5731,-7.5898,B.Tech,Full-Time,Data Engineer,Male,97000,28000,Akhil,Indeed
+Morocco,Rabat,34.0209,-6.8416,M.Tech,Full-Time,Database Administrator,Male,92000,24000,Ansh,Indeed
+Tanzania,Dar es Salaam,-6.7924,39.2083,PhD,Full-Time,Data Scientist,Male,115000,33000,Ashwin,Indeed
+Tanzania,Dodoma,-6.163,35.7516,B.Tech,Full-Time,Data Analyst,Male,86000,22000,Aarav,Indeed
+Uganda,Kampala,0.3476,32.5825,M.Tech,Full-Time,Data Engineer,Male,94000,26000,Armaan,Indeed
+Uganda,Gulu,2.7746,32.299,PhD,Full-Time,Data Architect,Male,89000,23000,Abeer,Indeed
+Algeria,Algiers,36.7538,3.0588,B.Tech,Full-Time,DevOps Engineer,Male,108000,30000,Ankit,Indeed
+Algeria,Oran,35.6971,-0.6308,M.Tech,Full-Time,Data Scientist,Male,91000,25000,Avi,Indeed
+South Africa,Pretoria,-25.7479,28.2293,PhD,Full-Time,Data Analyst,Male,125000,36000,Aryan,Indeed
+Nigeria,Kano,12.0022,8.592,B.Tech,Full-Time,Data Engineer,Male,99000,29000,Ashok,Indeed
+Kenya,Nakuru,-0.3031,36.08,M.Tech,Full-Time,Database Administrator,Male,85000,21000,Arjit,Indeed
+Egypt,Giza,30.0131,31.2089,PhD,Full-Time,Data Architect,Male,130000,37000,Ayaan,Indeed
+Ghana,Takoradi,4.8845,-1.7554,B.Tech,Full-Time,Data Scientist,Male,95000,26000,Anup,Indeed
+Ethiopia,Bahir Dar,11.5742,37.3614,M.Tech,Full-Time,Data Engineer,Male,92000,24000,Akshay,Indeed
+Morocco,Marrakesh,31.6295,-7.9811,PhD,Full-Time,Data Analyst,Male,117000,32000,Anuj,Indeed
+Tanzania,Arusha,-3.3869,36.683,B.Tech,Full-Time,Data Architect,Male,88000,23000,Aman,Indeed
+Uganda,Entebbe,0.0512,32.4637,M.Tech,Full-Time,DevOps Engineer,Male,90000,25000,Abhay,Indeed
+Algeria,Constantine,36.365,6.6147,PhD,Full-Time,Data Scientist,Male,112000,31000,Aakash,Indeed
